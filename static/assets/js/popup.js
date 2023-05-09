@@ -1,5 +1,3 @@
-
-console.log('Made by Bigfoot9999')
 function blank(){
 let inFrame
 
