@@ -1,4 +1,4 @@
-document.body.classList.add("classic");
+document.body.classList.add("retro");
 
 
 function blank3(){
